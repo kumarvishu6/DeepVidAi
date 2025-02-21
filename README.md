@@ -1,0 +1,2 @@
+# DeepVidAi
+A freelance project
